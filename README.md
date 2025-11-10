@@ -52,7 +52,7 @@
 ### 🔗 Connect with Me  
 <p align="center">
   <a href="mailto:aminpormobin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="[https://linkedin.com/in/C4rL0M](https://www.linkedin.com/in/mobin-aminpour-18132a201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LinkedIn-C4rL0M-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/mobin-aminpour-18132a201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-C4rL0M-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/C4rL0M"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github"/></a>
 </p>
 
